@@ -7,6 +7,8 @@
 вуза. Книги распределены по дисциплинам, дисциплины распределлены по группам.
 Пользователю присваивается группа и он получает доступ к книгам, которые ему будут необходимы в процессе обучения.
 
-laravel + React
+laravel + React + laravel Nova
 
 ![image](https://user-images.githubusercontent.com/97159484/150003820-6fe26ff7-faff-4162-a466-fd52d7547a7a.png)
+
+![image](https://user-images.githubusercontent.com/97159484/150006448-601ac3f4-bc80-464c-aeb3-506b68387c77.png)
